@@ -1,0 +1,16 @@
+.photoUnActive{
+
+    display: none;
+}
+.photoActive{
+    display: block;
+}
+.product{
+    display: flex;
+}
+p{
+    padding: 5px;
+}
+img{
+    width: 150px;
+}
